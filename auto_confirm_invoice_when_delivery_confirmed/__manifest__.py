@@ -34,5 +34,4 @@
 	'installable': True,
 	'auto_install': False,
 	"images":['static/description/Banner.png'],
-	'live_test_url':'https://youtu.be/DTlzWeLA_JA',
 }
