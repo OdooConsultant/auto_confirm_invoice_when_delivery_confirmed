@@ -3,7 +3,7 @@
 
 {
 	'name': 'Automatic Invoice from Delivery Order',
-	'version': '14.0.1.0',
+	'version': '15.0.1.0',
 	'category': 'Accounting',
 	'summary': 'Automatic invoice from picking Auto invoice from delivery order Auto create invoice from delivery auto invoice on delivered products auto invoice on deliver goods invoice by delivery auto invoice validate by picking auto invoice from DO invoice on delivery',
 	'description': """
@@ -34,5 +34,4 @@
 	'installable': True,
 	'auto_install': False,
 	"images":['static/description/Banner.png'],
-	'live_test_url':'https://youtu.be/DTlzWeLA_JA',
 }
